@@ -1,0 +1,18 @@
+{
+    "version": "1.0.0",
+    "editor": "code",
+    "tasks": {
+        "xmlprettier": {
+            "ask_before_run": 0,
+            "binary": "prettier.cmd",
+            "config": ".prettierrc.js",
+            "description": "XML pretty print, reformat XML files",
+            "enabled": 1,
+            "extensions": "wsdl|xml",
+            "package": "npm install prettier @prettier/plugin-xml --global",
+            "stop_on_errors": 1,
+            "title": "XML prettier",
+            "url": "https://github.com/prettier/prettier"
+        }
+    }
+}

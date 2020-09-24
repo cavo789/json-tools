@@ -1,0 +1,16 @@
+{
+    "name": "avonture/json-tools",
+    "description": "The idea of these scripts are simple: make easier to work with `.json` files",
+    "authors": [
+        {
+            "name": "Christophe Avonture",
+            "email": "christophe@avonture.be",
+            "homepage": "https://www.avonture.be",
+            "role": "Developer"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+        "swaggest/json-cli": "^1.7"
+    }
+}
